@@ -17,7 +17,7 @@
         </ul>
 <hr>
     ㅤ    
-         <h2 style="padding-bottom: 50px;"> Padrão de construção do banco de dados </h2>
+         <h2 style="padding-bottom: 50px;"> Modelagem banco de dados </h2>
       <br>
         <br>
         
