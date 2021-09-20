@@ -1,7 +1,7 @@
 <hr>
 <h1> Projeto em Spring do Bootcamp Santander </h1>
-        <p>Projeto feito no bootcamp santander no curso de fullstack java e aprimorado por mim.</p>
-        <p>Padrão de construção Model, View and Controller ( MVC )</p>
+        <p>Projeto desenvolvido no Bootcamp.</p>
+
 <p>
      
 
